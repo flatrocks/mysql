@@ -2,6 +2,7 @@ driver:
   name: vagrant
   customize:
     memory: 1024
+    cableconnected1: 'on'
 
 provisioner:
   name: chef_zero
